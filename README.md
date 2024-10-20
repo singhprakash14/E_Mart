@@ -1,6 +1,3 @@
-Here's a sample README file for your e-commerce project "EMart" using the MERN stack with Stripe integration.
-
----
 
 # EMart - Online Shop
 
